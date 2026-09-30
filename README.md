@@ -9,6 +9,8 @@
   &nbsp;·&nbsp;
   <a href="https://x.com/abraxas_null">@abraxas_null</a>
   &nbsp;·&nbsp;
+  <a href="mailto:abraxas.null@proton.me">abraxas.null@proton.me</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sonic-gnmi-noauth">sonic-gnmi-noauth</a>
 </p>
 
