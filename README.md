@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sonic-gnmi-noauth">sonic-gnmi-noauth</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sonic-gnmi-noauth"><strong>https://abraxaslabs.tech/research/sonic-gnmi-noauth</strong></a>
+</p>
+
 
 # sonic-gnmi-noauth
 
